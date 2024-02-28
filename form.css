@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Protest Revolution", sans-serif;
+    
+    background-color: rgb(241, 217, 187);
+    border: 10px solid black;
+    width: 100%;
+    text-align: center;
+}
+/* label{
+    background-color: hotpink;
+} */
+
+#fname{
+    width: 20%;
+    padding: 10px 5px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing:border-box;
+  }
+  #lname{
+    width: 20%;
+    padding: 10px 5px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing:border-box;
+  }
+  #mnumber{
+    width: 10%;
+    padding: 10px 5px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing:border-box;
+  }
+  #email{
+    width: 10%;
+    padding: 10px 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing:border-box;
+  }
+  #date{
+    width: 10%;
+    padding: 10px 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing:border-box;
+  }
+
+  #sub{
+    width: 10%;
+    background-color: #2cc031;
+    color: white;
+    padding: 14px ;
+     border: none;
+     margin-bottom: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #sub1{
+    width: 10%;
+    background-color: #2cc031;
+    color: white;
+    padding: 14px;
+       border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
